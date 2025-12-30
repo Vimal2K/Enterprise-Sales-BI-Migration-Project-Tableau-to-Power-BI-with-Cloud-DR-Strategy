@@ -1,0 +1,51 @@
+Customer ID,Customer Name,City,State,Pincode,EmailID,Phone Number
+1,Aarav Singh,Nagpur       , Maharashtra   , 440001,1Aarav@gmail.com,860135097
+2,Aditi Patel,Bhopal       , Madhya Pradesh, 462001,2Aditi@gmail.com,896750475
+3,Aman Verma,Ahmedabad    , Gujarat       , 380001,3Aman@gmail.com,833807373
+4,Ananya Mehta,Bhopal       , Madhya Pradesh, 462001,4Ananya@gmail.com,804038105
+5,Aniket Sharma,Indore       , Madhya Pradesh, 452001,5Aniket@gmail.com,986307349
+6,Anjali Rao,Bhopal       , Madhya Pradesh, 462001,6Anjali@gmail.com,963288063
+7,Arjun Joshi,Kanpur       , Uttar Pradesh , 208001,7Arjun@gmail.com,988368456
+8,Aryan Gupta,Mumbai       , Maharashtra   , 400001,8Aryan@gmail.com,953821775
+9,Avni Iyer,Kanpur       , Uttar Pradesh , 208001,9Avni@gmail.com,863732487
+10,Dhruv Desai,Pune         , Maharashtra   , 411001,10Dhruv@gmail.com,900051106
+11,Diya Kapoor,Mumbai       , Maharashtra   , 400001,11Diya@gmail.com,845767347
+12,Gaurav Nair,Pune         , Maharashtra   , 411001,12Gaurav@gmail.com,882241217
+13,Isha Reddy,Bhopal       , Madhya Pradesh, 462001,13Isha@gmail.com,936075025
+14,Ishaan Shah,Pune         , Maharashtra   , 411001,14Ishaan@gmail.com,919817067
+15,Jaya Kumar,Chennai      , Tamil Nadu    , 600001,15Jaya@gmail.com,924456577
+16,Kabir Choudhary,Jaipur       , Rajasthan     , 302001,16Kabir@gmail.com,972567291
+17,Kajal Bhatt,Delhi        , Delhi         , 110001,17Kajal@gmail.com,874157581
+18,Karan Sethi,Visakhapatnam, Andhra Pradesh, 530001,18Karan@gmail.com,831578630
+19,Kavya Mishra,Indore       , Madhya Pradesh, 452001,19Kavya@gmail.com,922627518
+20,Krishnan Menon,Chennai      , Tamil Nadu    , 600001,20Krishnan@gmail.com,983313579
+21,Lavanya Jain,Indore       , Madhya Pradesh, 452001,21Lavanya@gmail.com,909364909
+22,Manish Dubey,Bangalore    , Karnataka     , 560001,22Manish@gmail.com,953463644
+23,Meera Bansal,Hyderabad    , Telangana     , 500001,23Meera@gmail.com,919906725
+24,Mohit Aggarwal,Patna        , Bihar         , 800001,24Mohit@gmail.com,820169596
+25,Naina Chauhan,Kanpur       , Uttar Pradesh , 208001,25Naina@gmail.com,963281758
+26,Neha Sinha,Kolkata      , West Bengal   , 700001,26Neha@gmail.com,892141514
+27,Nikita Ahuja,Mumbai       , Maharashtra   , 400001,27Nikita@gmail.com,809074643
+28,Nikhil Khanna,Indore       , Madhya Pradesh, 452001,28Nikhil@gmail.com,930431648
+29,Palak Kapoor,Mumbai       , Maharashtra   , 400001,29Palak@gmail.com,932434720
+30,Pooja Chatterjee,Patna        , Bihar         , 800001,30Pooja@gmail.com,822742952
+31,Prachi Yadav,Kanpur       , Uttar Pradesh , 208001,31Prachi@gmail.com,812101998
+32,Priya Arora,Kolkata      , West Bengal   , 700001,32Priya@gmail.com,912947854
+33,Rajat Saxena,Kanpur       , Uttar Pradesh , 208001,33Rajat@gmail.com,838454060
+34,Rajeev Trivedi,Hyderabad    , Telangana     , 500001,34Rajeev@gmail.com,944295777
+35,Rhea Bakshi,Kanpur       , Uttar Pradesh , 208001,35Rhea@gmail.com,894888357
+36,Rishi Kulkarni,Visakhapatnam, Andhra Pradesh, 530001,36Rishi@gmail.com,885980847
+37,Rohit Sen,Ahmedabad    , Gujarat       , 380001,37Rohit@gmail.com,839898719
+38,Saanvi Pillai,Lucknow      , Uttar Pradesh , 226001,38Saanvi@gmail.com,837024031
+39,Sakshi Kaur,Bhopal       , Madhya Pradesh, 462001,39Sakshi@gmail.com,943055559
+40,Samir Ghosh,Jaipur       , Rajasthan     , 302001,40Samir@gmail.com,871488907
+41,Sanjay Mathew,Nagpur       , Maharashtra   , 440001,41Sanjay@gmail.com,966504199
+42,Shikha Pandey,Lucknow      , Uttar Pradesh , 226001,42Shikha@gmail.com,876646764
+43,Siddharth Reddy,Pune         , Maharashtra   , 411001,43Siddharth@gmail.com,978533189
+44,Simran Kaur,Mumbai       , Maharashtra   , 400001,44Simran@gmail.com,819370766
+45,Sneha Sharma,Jaipur       , Rajasthan     , 302001,45Sneha@gmail.com,890825886
+46,Tanvi Nair,Indore       , Madhya Pradesh, 452001,46Tanvi@gmail.com,945516860
+47,Tanya Singh,Delhi        , Delhi         , 110001,47Tanya@gmail.com,817369338
+48,Vikas Tiwari,Bhopal       , Madhya Pradesh, 462001,48Vikas@gmail.com,827682526
+49,Viraj Patel,Lucknow      , Uttar Pradesh , 226001,49Viraj@gmail.com,847802479
+50,Yash Malhotra,Lucknow      , Uttar Pradesh , 226001,50Yash@gmail.com,910695779
